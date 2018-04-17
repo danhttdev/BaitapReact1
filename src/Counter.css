@@ -1,0 +1,31 @@
+.container {
+    width: 150px;
+    height: 40px;
+}
+input {
+    float: left;
+    display: block;
+    width: 100px;
+    height: 38px;
+}
+#increase {
+    float: right;
+    width: 44px;
+    height: 20px;
+    background-image: url(increase.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border: 1px solid rgba(0, 0, 0, 0.158);
+}
+#decrease {
+    float: right;
+    width: 44px;
+    height: 20px;
+    background-image: url(decrease.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border: 1px solid rgba(0, 0, 0, 0.158);
+}
+button {
+    width: 100%;
+}

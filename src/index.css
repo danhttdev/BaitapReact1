@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+#root2 {
+  float: right;
+  border: 1px solid gold;
+}
