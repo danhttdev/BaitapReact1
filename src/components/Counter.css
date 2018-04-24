@@ -12,7 +12,7 @@ input {
     float: right;
     width: 44px;
     height: 20px;
-    background-image: url(increase.png);
+    background-image: url(../img/increase.png);
     background-size: 100%;
     background-repeat: no-repeat;
     border: 1px solid rgba(0, 0, 0, 0.158);
@@ -21,7 +21,7 @@ input {
     float: right;
     width: 44px;
     height: 20px;
-    background-image: url(decrease.png);
+    background-image: url(../img/decrease.png);
     background-size: 100%;
     background-repeat: no-repeat;
     border: 1px solid rgba(0, 0, 0, 0.158);
